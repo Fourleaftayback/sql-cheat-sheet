@@ -1,6 +1,6 @@
 # SQL-cheat-sheet
 
-####Basics of SQL 
+#### Basics of SQL 
 
 * A cheat sheet created from this video Taken from youTube: [https://www.youtube.com/watch?v=7S_tz1z_5bA&t=55s](https://www.youtube.com/watch?v=7S_tz1z_5bA&t=55s) 
 
